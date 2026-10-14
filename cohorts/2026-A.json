@@ -1,0 +1,16 @@
+{
+  "record": {
+    "schema": "qwalora.ranger.cohort/v1",
+    "cohort": "2026-A",
+    "generator": "cohort-sync@1.0.0",
+    "pass_bar": 95,
+    "count": 0,
+    "rangers": [],
+    "generated": "2026-10-14T02:28:54Z"
+  },
+  "algorithm": "Ed25519",
+  "canonicalization": "json-sorted-compact-utf8",
+  "keyid": "ed25519:702973cd99d8e606",
+  "public_key": "cFUqJKAFHhkFOX9b/UAiCqJ3Q8gCsouXHPtxh3VQtK8=",
+  "signature": "msQjixe/40LxP4EIMsIRJ9avHKAJST/Imbmj43G4s5YHd0kQXVUZpO7oS+4EBUKkr3t5v0NVPV+1tYUIuxG0DA=="
+}
